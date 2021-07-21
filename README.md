@@ -10,4 +10,4 @@ The goal for this project is to create a somewhat reasonable fluid dynamic simul
 
 
 ## Slightly moving particle
-[alt text](images/pic1.png)
+![alt text](images/pic1.png)
