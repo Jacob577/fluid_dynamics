@@ -6,8 +6,8 @@ using namespace std;
 
 
 int main() {
-  boardPointer = new Board;
-  Board board*;
+  // boardPointer = new Board;
+  Board board;
   // Boar
   // board.setWidthHeight(25,26);
   board.getNewBoard(40,20);
